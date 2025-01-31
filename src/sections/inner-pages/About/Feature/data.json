@@ -1,0 +1,32 @@
+[
+  {
+    "iconSrc": "/image/about/feature-icon-1.svg",
+    "title": "Passionate about work",
+    "description": "We are passionate about providing exceptional service and creating value for our clients."
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-2.svg",
+    "title": "Creative team members",
+    "description": "Our team of creative experts is dedicated to bringing fresh perspectives to your projects"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-3.svg",
+    "title": "Innovation solutions",
+    "description": "We offer innovative solutions that empower your business to excel in today's fast-paced world"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-4.svg",
+    "title": "Quality products",
+    "description": "We are committed to delivering high-quality products that drive your success"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-5.svg",
+    "title": "Customer satisfaction",
+    "description": "We strive to exceed your expectations by providing personalized service, high-quality products, and prompt support"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-6.svg",
+    "title": "Simple interface",
+    "description": "We design simple, intuitive interfaces that make technology easy and enjoyable to use"
+  }
+]

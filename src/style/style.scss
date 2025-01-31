@@ -1,0 +1,39 @@
+// ******* Use Import ********//
+
+@use "./helpers/base";
+@use "./helpers/overrides";
+@use "./components";
+@use "./sections";
+@use "./helpers";
+@use "./helpers/utilities";
+
+
+.brandLogo{
+    height: 50px;
+    object-fit: cover;
+}
+
+.portfolioImage{
+    height: 300px !important;
+    width: 100%;
+    object-fit: cover !important;
+}
+.portfolio-widget{
+    width: 100%;
+}
+.testimonialImage {
+    height: 350px !important;
+    width: 100%;
+    object-fit: cover !important;
+    border-radius: 20px;
+}
+.w-fit{
+    width: fit-content !important;
+}
+
+@media screen and (max-width: 580px ) {
+    
+    .brand-section .single-brand{
+        width: 100%;
+    }
+}

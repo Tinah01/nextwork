@@ -1,0 +1,26 @@
+[
+  {
+    "iconSrc": "/image/icons/icon-service-1.svg",
+    "title": "Devops & Infrastructure",
+    "description": "Our DevOps and infrastructure services streamline your development process and optimize your IT environment. ",
+    "aos": "fade-right"
+  },
+  {
+    "iconSrc": "/image/icons/icon-service-2.svg",
+    "title": "Software Development",
+    "description": "By understanding your goals and challenges, we create digital products that drive productivity, improve user experiences, and support your growth ",
+    "aos": "fade-left"
+  },
+  {
+    "iconSrc": "/image/icons/icon-service-3.svg",
+    "title": "Mobile App Development",
+    "description": "By understanding your unique needs, we build mobile solutions that drive user satisfaction & business growth",
+    "aos": "fade-right"
+  },
+  {
+    "iconSrc": "/image/icons/icon-service-4.svg",
+    "title": "Artificial Inteligence",
+    "description": "Leverage machine learning and advanced algorithms to create software that automates processes, enhances decision-making, and delivers personalized experiences.",
+    "aos": "fade-left"
+  }
+]

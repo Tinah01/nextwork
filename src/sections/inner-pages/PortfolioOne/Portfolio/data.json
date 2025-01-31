@@ -1,0 +1,54 @@
+{
+  "navListInline": [
+    {
+      "title": "Show All",
+      "data_filter": "*"
+    },
+    {
+      "title": "Website",
+      "data_filter": "portfolio-1"
+    },
+    {
+      "title": "Mobile App",
+      "data_filter": "portfolio-2"
+    }
+  ],
+  "portfolioContent": [
+    {
+      "image": "/image/portfolio/heirs-mobile.png",
+      "title": "Heirs Insurance",
+      "category": "Mobile App",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-2"
+    },
+    {
+      "image": "/image/portfolio/the-mirror.png",
+      "title": "The Mirror",
+      "category": "Website",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-3 portfolio-1 portfolio-5"
+    },
+    {
+      "image": "/image/portfolio/charis.png",
+      "title": "Charis coding",
+      "category": "Website",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-1 portfolio-3"
+    },
+    {
+      "image": "/image/portfolio/heirs-website.png",
+      "title": "Heirs Insurance",
+      "category": "Website",
+      "link": "/portfolio-details",
+      "data_filter": " portfolio-1 portfolio-5"
+    },
+    {
+      "image": "/image/portfolio/firacard.png",
+      "title": "Firacard",
+      "category": "Website",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-1 "
+    }
+    
+  ]
+}
